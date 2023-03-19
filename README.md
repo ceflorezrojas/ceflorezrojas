@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm **Camilo** and i like to build stuff 🛠️
+I'm **Camilo** and I like to build stuff 🛠️
 I worked as technical support and managed and installed Linux servers. I love data and what can be found with it. I hope one day to be able to find something that contributes a grain of sand to knowledge. 🚀**
 ### I can help you with: 
  - Python Development 🐍
